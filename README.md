@@ -24,7 +24,7 @@ Chances are if you're on this page, we work together! I've outlined my principle
 * I will support you and work through fallout from badly delivered or received feedback. 
 
 #### I’m here to work for you, not the other way around!
-* We all work for the company first.
+* We all work for the company first, but after that, I am here to work for you and support you. 
 * Communicating with me:
   * Unless previously communicated, I am always available and my calendar is always up to date
   * I prefer Slack for mostly-sync (I mute notifications outside of working hours)
